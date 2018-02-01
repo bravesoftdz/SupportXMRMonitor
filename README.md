@@ -14,4 +14,8 @@ It saves the info to an INI file so on the next start you don't need to enter an
 
 You can change miner group by right-clicking in the window and selecting "Set Miner Group".
 
+Adjust the update interval by right-clicking and selecting "Set Update Interval", defaults to 60000 milliseconds (1 minute interval)
+
+## Notes
+
 It should be cross platform but I have only tested in on my Mac, I plan to make binaries for the three major platforms at some point (Mac, Windows, Linux)
