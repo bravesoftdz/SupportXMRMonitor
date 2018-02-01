@@ -1,0 +1,4 @@
+February 1 2018
+Verseion 0.1.1
+Initial release
+Able to set miner group and adjust update interval (Defaults to once per minute)
